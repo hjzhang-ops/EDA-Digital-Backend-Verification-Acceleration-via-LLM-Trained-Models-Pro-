@@ -1,0 +1,4 @@
+{"text": "Slack (VIOLATED): -0.210; congestion 8.3%; cell U12/UCLK size X2", "label": "TIMING_VIOLATION"}
+{"text": "IR drop hotspot detected near grid region A3; max drop 78mV", "label": "IR_DROP"}
+{"text": "Global route overflow 9.1% in region B2; density high", "label": "CONGESTION_HOTSPOT"}
+{"text": "Dynamic power spike to 145mW after buffer insertion", "label": "POWER_SPIKE"}

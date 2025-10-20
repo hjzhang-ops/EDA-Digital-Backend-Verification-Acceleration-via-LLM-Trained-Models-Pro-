@@ -1,0 +1,16 @@
+
+seed: 42
+model_name: distilbert-base-uncased
+train:
+  batch_size: 8
+  epochs: 2
+  lr: 5e-5
+  max_length: 512
+  warmup_steps: 50
+  weight_decay: 0.01
+data:
+  train_file: data/training_data/train.jsonl
+  val_file: data/training_data/val.jsonl
+  label_map: data/label_schema/labels.json
+output:
+  dir: models/finetuned

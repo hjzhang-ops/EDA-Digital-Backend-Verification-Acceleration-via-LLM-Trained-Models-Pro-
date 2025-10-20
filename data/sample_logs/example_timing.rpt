@@ -1,0 +1,8 @@
+Startpoint: U1/CLK
+Endpoint: U2/D
+Path Group: clk
+Slack (VIOLATED): -0.128
+Data Path Delay: 0.712
+Required Time: 0.584
+Launch Clock: clk0
+Capture Clock: clk0

@@ -1,0 +1,9 @@
+{
+  "classes": [
+    "TIMING_VIOLATION",
+    "CONGESTION_HOTSPOT",
+    "IR_DROP",
+    "POWER_SPIKE",
+    "OTHER"
+  ]
+}

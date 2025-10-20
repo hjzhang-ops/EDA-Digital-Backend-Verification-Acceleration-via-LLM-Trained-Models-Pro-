@@ -1,0 +1,5 @@
+
+model_path: models/finetuned
+label_map: data/label_schema/labels.json
+max_length: 512
+threshold: 0.5
